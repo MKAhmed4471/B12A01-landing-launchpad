@@ -1,0 +1,36 @@
+.nunito-header-style {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+/* nav styles */
+nav {
+    margin-top: 20px;
+    /* margin-left: 10px;
+    margin-right: 10px; */
+    text-align: center;
+    gap: 300px;
+    display: flex;
+    padding: 10px;
+
+    justify-content: space-around;
+}
+
+.logo {
+    color: #4E47FF;
+    font-weight: 700;
+    font-size: large;
+}
+
+.signup {
+    font-size: large;
+    font-weight: 600;
+    width: 132px;
+    height: 48px;
+    border-radius: 5px;
+    color: aliceblue;
+    background-color: #4E47FF;
+    border: none;
+}
